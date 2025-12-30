@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Jayesh Prajapati 👋
 
-<!--
-**Jayeshprajapati1723/Jayeshprajapati1723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech CSE 2nd Year Student
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const jayesh = {
+  pronouns: ["He", "Him"],
+  code: ["C", "C++", "Java"],
+  tools: ["VS Code", "Git", "GitHub"],
+  currentlyLearning: ["Data Structures & Algorithms", "OOPS Concepts"],
+  goal: "Software Excellence"
+};
