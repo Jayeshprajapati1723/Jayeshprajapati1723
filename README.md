@@ -1,4 +1,4 @@
-# Hi, I'm Jayesh Prajapati 👋
+# Hi, I'm Jayesh Prajapati 
 
 ### 🎓 B.Tech CSE 2nd Year Student
 
