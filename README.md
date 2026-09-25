@@ -1,6 +1,6 @@
 # Hi, I'm Jayesh Prajapati 
 
-### 🎓 B.Tech CSE 2nd Year Student
+###  B.Tech CSE 3nd Year Student
 
 ```javascript
 const jayesh = {
